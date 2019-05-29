@@ -27,6 +27,7 @@ Then, go to http://localhost:8080/ in your browser to see the code running in th
 ![Imgur](https://i.imgur.com/sDbY4AH.png)
 ![Imgur](https://i.imgur.com/D34AEn6.png)
 ![Imgur](https://i.imgur.com/vUejo4q.png)
+![Imgur](https://i.imgur.com/RBLfpfJ.png)
 
 ## Learning Goals
 
