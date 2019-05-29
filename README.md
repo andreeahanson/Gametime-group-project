@@ -27,6 +27,7 @@ Then, go to http://localhost:8080/ in your browser to see the code running in th
 ![Imgur](https://i.imgur.com/sDbY4AH.png)
 ![Imgur](https://i.imgur.com/D34AEn6.png)
 ![Imgur](https://i.imgur.com/vUejo4q.png)
+![Imgur](https://i.imgur.com/zlNaa9R.jpg)
 ![Imgur](https://i.imgur.com/RBLfpfJ.png)
 
 ## Learning Goals
@@ -45,10 +46,3 @@ Then, go to http://localhost:8080/ in your browser to see the code running in th
 [Andreea Hanson](https://github.com/andreeahanson)
 
 [Anneke McGrady](https://github.com/annekemcgrady)
-
-
-## Deploying to GitHub Pages
-
-_If you are finished with the functionality and testing of your game_, then you can consider deploying your game to the web! This way anyone can play it without cloning down your repo.
-
-[GitHub Pages](https://pages.github.com/) is a great way to deploy your game to the web. Research deploying a Webpack project to GitHub Pages or ask your instructors about it if you get to that point. (Don't worry about this until your project is free of bugs and well tested!)
